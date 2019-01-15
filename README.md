@@ -18,6 +18,8 @@ version of SAGE is targeted for elementary aged students.
 
 ## Concept and Gameplay
 
+![Screenshot](gameplay.png)
+
 SAGE is played with one or more players. These players can take turns at having 
 different roles during the game. One player is shown a word on a card that is 
 displayed on the screen of a device. Their goal is to correctly identify what 
@@ -41,6 +43,8 @@ From the homepage and playpage, a help page which explains the rules of the game
 There is a deck page which displays all of the decks in the system and allows for the creation of new decks. Individual deck names can be clicked on from this screen which will take you to a page that displays all of the cards within that deck and will allow additional cards to be added to it. Deck names can be edited from this page, and decks themselves can also be deleted.
  
 There is also a card list page which displays the words of every card in the system across all decks and a menu for selecting, adding, deleting cards, and a dropdown for selecting decks. If a card is clicked on and no button is selected, the full content of that card will appear on the screen in a dialog. If the select button is pressed, when cards are pressed they will light up blue to indicate that they have been selected. Once a deck is selected, the add and delete buttons are available to press. When either are pressed, the selected cards are added or deleted from the selected deck, and a dialog will pop up that shows the changes that have been made and will allow a user to see those changes if they desire. Selected cards can be wiped by pressing the cancel button. Cards can also be permanently removed from the system from this screen by pressing the trash icons inside of the full view of a card. 
+
+![Screenshot](card-list.png)
 
 
 ## Technologies
